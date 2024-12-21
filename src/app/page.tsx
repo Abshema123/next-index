@@ -14,8 +14,11 @@ export default function Home() {
     </div>
     <div className="relative z-10 flex flex-col items-center justify-center h-screen text-white max-w-sm mx-auto">
    <h2> The Clockmaker&apos;s Secret</h2>
+   <p className="px-4 pt-5">
+   In the quaint town of Everwhistle, nestled in a lush valley, stood an ancient clock tower. No one in town knew exactly who had built it, but the intricate mechanisms inside it still ticked flawlessly, keeping perfect time for centuries. At the heart of this marvel was Tobias, an elderly clockmaker who had inherited the care of the tower from his father.
+   </p>
 
-In the quaint town of Everwhistle, nestled in a lush valley, stood an ancient clock tower. No one in town knew exactly who had built it, but the intricate mechanisms inside it still ticked flawlessly, keeping perfect time for centuries. At the heart of this marvel was Tobias, an elderly clockmaker who had inherited the care of the tower from his father.
+
     </div>
     </main>
   );
