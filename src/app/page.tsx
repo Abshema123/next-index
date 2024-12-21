@@ -6,6 +6,9 @@ export default function Home() {
     Home
     <Link href="/about" className="text-blue-500 block">
     About</Link>
+    <div>
+      <p>This is have now changed</p>
+    </div>
     </main>
   );
 }
